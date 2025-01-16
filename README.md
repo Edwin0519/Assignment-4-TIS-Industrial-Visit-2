@@ -1,4 +1,4 @@
-# Technology and Information System-Assignment 4 Industrial Visit 2
+# Assignment-4-TIS-Industrial-Visit-2
 
 For this Assignment, We have visit to the Media and Game Innovation Centre of Excellence, MaGICX.
 We have created a newsletter after this visit.
