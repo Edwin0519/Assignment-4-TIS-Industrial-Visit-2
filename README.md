@@ -1,8 +1,9 @@
-# Technology and Information System: Assignment 4 Industrial Visit 2
+# Technology and Information System-Assignment 4 Industrial Visit 2
 
-We have develop an academic writing for this talk
+For this Assignment, We have visit to the Media and Game Innovation Centre of Excellence, MaGICX.
+We have created a newsletter after this visit.
 
-Technology and Information Systems-Assignment 3 (Industrial Talk 2) Group 6
+Technology and Information Systems-Assignment 4 (Industrial Visit 2) Group 6
 
 1. Tan Li Jia
 2. Lee Wei Xuan
