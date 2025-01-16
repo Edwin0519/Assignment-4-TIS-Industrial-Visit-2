@@ -1,4 +1,4 @@
-# Technology and Information System Assignment-4-Industrial-Visit-2
+# Technology and Information System: Assignment 4 Industrial Visit 2
 
 We have develop an academic writing for this talk
 
